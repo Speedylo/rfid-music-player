@@ -22,12 +22,9 @@
 - [Installation](#-installation)
 - [Cloud Integration](#️-cloud-integration-pipedream-workflow)
 - [Usage](#-usage)
-- [Project Structure](#-project-structure)
 - [Development](#️-development)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Authors](#-authors)
-- [Acknowledgments](#-acknowledgments)
 
 ---
 
