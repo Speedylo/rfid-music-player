@@ -17,7 +17,6 @@
 
 - [Overview](#-overview)
 - [Features](#-features)
-- [Demo](#-demo)
 - [System Architecture](#️-system-architecture)
 - [Hardware Components](#-hardware-components)
 - [Installation](#-installation)
@@ -68,15 +67,6 @@ The device identifies users through **RFID tags**, communicates with a cloud ser
 - 📱 **Offline Operation**: Works independently without constant internet connection
 - 🔔 **Audio Feedback**: Success/failure tones via piezoelectric buzzer
 - 🎨 **Animated UI**: Scrolling text for long track titles, smooth transitions
-
----
-
-### Circuit
-
-<div align="center">
-  <img src="docs/images/circuit_image.png" alt="Complete Circuit Assembly" width="600"/>
-  <p><em>Complete hardware assembly with all components</em></p>
-</div>
 
 ---
 
@@ -145,7 +135,7 @@ The firmware implements a **state-driven architecture** with 5 operational modes
 | **Electrolytic Capacitor** | 1mF | Smooth out voltage | Breadboard Railways |
 | **Ceramic Capacitor** | 100nF | Reduce noise | Breadboard Railways |
 
-**Estimated Total Cost**: ~220 MAD (~$22 USD) excluding speakers and lab-provided components
+**Estimated Total Cost**: Around 220 MAD ($22 USD) excluding speakers and lab-provided components
 
 ### Pin Configuration
 
@@ -169,7 +159,7 @@ The firmware implements a **state-driven architecture** with 5 operational modes
 ### Circuit Diagram
 
 <div align="center">
-  <img src="docs/images/circuit_diagram.jpg" alt="Complete Circuit Diagram" width="700"/>
+  <img src="docs/images/circuit_diagram.png" alt="Complete Circuit Diagram" width="700"/>
   <p><em>Complete breadboard circuit showing all connections</em></p>
 </div>
 
