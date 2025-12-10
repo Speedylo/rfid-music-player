@@ -159,7 +159,7 @@ The firmware implements a **state-driven architecture** with 5 operational modes
 ### Circuit Diagram
 
 <div align="center">
-  <img src="docs/images/circuit_diagram.png" alt="Complete Circuit Diagram" width="700"/>
+  <img src="docs/images/circuit_image.png" alt="Complete Circuit Diagram" width="700"/>
   <p><em>Complete breadboard circuit showing all connections</em></p>
 </div>
 
