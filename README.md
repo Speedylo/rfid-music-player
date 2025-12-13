@@ -7,7 +7,7 @@
 ![Made with C++](https://img.shields.io/badge/Made%20with-C%2B%2B-f34b7d)
 
 <div align="center">
-  <img src="docs/images/circuit_image.png" alt="RFID Music Player Circuit" width="700"/>
+  <img src="docs/images/musicplayer.jpg" alt="RFID Music Player Circuit" width="700"/>
   <p><em>A dedicated music player combining RFID authentication with cloud-powered recommendations</em></p>
 </div>
 
