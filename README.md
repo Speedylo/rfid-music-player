@@ -917,7 +917,7 @@ Feel free to reach out for:
 ## 📊 Project Statistics
 
 - **Development Time**: ~4 weeks (October-December 2025)
-- **Lines of Code**: ~800 lines (C++)
+- **Lines of Code**: ~600 lines (C++)
 - **Components Used**: 8 major modules
 - **Project Cost**: ~220 MAD ($22 USD)
 - **Power Consumption**: ~500mA @ 5V (playback)
