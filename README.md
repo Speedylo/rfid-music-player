@@ -924,12 +924,4 @@ Feel free to reach out for:
 
 ---
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Speedylo/rfid-music-player&type=Date)](https://github.com/Speedylo/rfid-music-player/stargazers)
-
-If you found this project helpful or interesting, please consider giving it a ⭐ star on GitHub!
-
----
-
 *Last Updated: December 10, 2025*
