@@ -921,7 +921,3 @@ Feel free to reach out for:
 - **Components Used**: 8 major modules
 - **Project Cost**: ~220 MAD ($22 USD)
 - **Power Consumption**: ~500mA @ 5V (playback)
-
----
-
-*Last Updated: December 10, 2025*
